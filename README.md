@@ -41,9 +41,9 @@ The dataset contains features computed from digitized images of fine needle aspi
 ** Distribution diagnosis**
 ![distribution_diagnosis](images/distribution_diagnosis.png)
 ** Confusion Matrix**
-*SVM Confusion Matrix*
-![confusion_matrix_svm](images/confusion_matrix_svm.png)
 *Random Forest Confusion Matrix*
 ![confusion_matrix_rf](images/confusion_matrix_rf.png)
+*SVM Confusion Matrix*
+![confusion_matrix_svm](images/confusion_matrix_svm.png)
 *XGB Confusion Matrix*
 ![confusion_matrix_xgb](images/confusion_matrix_xgb.png)
