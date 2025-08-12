@@ -38,12 +38,12 @@ The dataset contains features computed from digitized images of fine needle aspi
 - scikit-learn  
 - XGBoost
 ## 📷 Visualizations
-** Distribution diagnosis**
+- **Distribution diagnosis**:
 ![distribution_diagnosis](images/distribution_diagnosis.png)
-** Confusion Matrix**
-*Random Forest Confusion Matrix*
+- **Confusion Matrix**
+- Random Forest Confusion Matrix
 ![confusion_matrix_rf](images/confusion_matrix_rf.png)
-*SVM Confusion Matrix*
-![confusion_matrix_svm](images/confusion_matrix_svm.png)
-*XGB Confusion Matrix*
+- SVM Confusion Matrix
+![confusion_matrix_svm](images/confusion_matrix_svmm.png)
+- XGB Confusion Matrix
 ![confusion_matrix_xgb](images/confusion_matrix_xgboost.png)
