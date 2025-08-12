@@ -46,4 +46,4 @@ The dataset contains features computed from digitized images of fine needle aspi
 *SVM Confusion Matrix*
 ![confusion_matrix_svm](images/confusion_matrix_svm.png)
 *XGB Confusion Matrix*
-![confusion_matrix_xgb](images/confusion_matrix_xgb.png)
+![confusion_matrix_xgb](images/confusion_matrix_xgboost.png)
