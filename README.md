@@ -47,3 +47,9 @@ The dataset contains features computed from digitized images of fine needle aspi
 ![confusion_matrix_svm](images/confusion_matrix_svmm.png)
 - XGB Confusion Matrix
 ![confusion_matrix_xgb](images/confusion_matrix_xgboost.png)
+## Model Performance
+| Model         | Accuracy | Precision | Recall  | F1 Score | ROC-AUC |
+|---------------|----------|-----------|---------|----------|---------|
+| Random Forest | 0.964912 | 0.939394  | 0.96875 | 0.953846 | 0.993137|
+| SVM           | 0.964912 | 0.939394  | 0.96875 | 0.953846 | 0.990654|
+| XGBoost       | 0.970760 | 0.953846  | 0.96875 | 0.961240 | 0.990800|
